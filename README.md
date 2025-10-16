@@ -34,4 +34,4 @@ This project is a *Natural Language Processing (NLP) model* designed to classify
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ZAINAB_ADELL/TEXT_CLASSIFICATION.git
+   git clone https://github.com/Zainabadell/TEXT_CLASSIFICATION.git
